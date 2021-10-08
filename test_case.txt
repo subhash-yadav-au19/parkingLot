@@ -1,0 +1,27 @@
+ create slot 6
+KA-01-HH-1234 
+White
+KA-01-HH-9999 
+White
+KA-01-BB-0001 
+Black
+KA-01-HH-7777
+Red
+KA-01-HH-2701 
+Blue
+KA-01-HH-3141 
+Black
+leave 4
+Status
+KA-01-P-333 
+White
+DL-12-AA-9999 
+White
+registration_numbers_for_cars_with_colour 
+White
+slot_numbers_for_cars_with_colour 
+White
+slot_number_for_registration_number
+KA-01-HH-3141
+slot_number_for_registration_number 
+MH-04-AY-1111
